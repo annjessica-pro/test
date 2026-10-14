@@ -52,7 +52,7 @@
     </section>
     </main>
     <section>
-      <h2>Glossaire</h2>
+      <h2 id="glossaire">Glossaire</h2>
       <dl>
         <dt>Médiation numérique</dt>
         <dd>Action d'inscrire et de documenter un contenu sur un support de diffusion numérique.</dd>
